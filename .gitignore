@@ -1,0 +1,13 @@
+*.exe
+*.dll
+*.obj
+*.res
+*.lib
+*.pdb
+CAA_Build_Workspace/
+Runtime/
+*.CATPart
+*.CATProduct
+*.CATProcess
+Source/Worker/workspace_template/CATIAV5Level.lvl
+Source/Worker/workspace_template/Install_config_win_b64
